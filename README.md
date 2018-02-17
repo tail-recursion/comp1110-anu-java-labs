@@ -1,5 +1,11 @@
 # COMP1110 Labs
 
+These are solutions for the lab exercises for COMP1110 which is an Object Oriented Programming course using Java at the Australian National University
+
+TODO: Implement Lab 5, 6, 7
+
+All of these labs are using JavaFX
+
 ### Before You Start
 
 It is essential that you use streams to [enroll](https://cs.anu.edu.au/streams/) in a lab class before the end of week 1 (this should be available from Monday morning, Week 1).
